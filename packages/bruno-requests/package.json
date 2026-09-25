@@ -20,7 +20,7 @@
     "prepack": "npm run test && npm run build"
   },
   "dependencies": {
-    "@faker-js/faker": "^9.7.0",
+    "@faker-js/faker": "^10.5.0",
     "@usebruno/common": "0.1.0",
     "@grpc/grpc-js": "^1.14.4",
     "@grpc/proto-loader": "^0.7.15",
