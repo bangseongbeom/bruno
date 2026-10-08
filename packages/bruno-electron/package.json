@@ -34,7 +34,7 @@
     "@ai-sdk/openai": "3.0.12",
     "@apidevtools/json-schema-ref-parser": "14.2.1",
     "@aws-sdk/credential-providers": "3.1019.0",
-    "@grpc/grpc-js": "^1.14.4",
+    "@grpc/grpc-js": "^1.14.5",
     "@grpc/proto-loader": "^0.7.13",
     "@lydell/node-pty": "^1.1.0",
     "@usebruno/common": "0.1.0",
@@ -47,11 +47,11 @@
     "@usebruno/schema": "0.7.0",
     "@usebruno/sqlite": "0.1.0",
     "about-window": "^1.15.2",
-    "adm-zip": "^0.6.0",
+    "adm-zip": "^0.6.1",
     "ai": "6.0.39",
     "archiver": "^7.0.1",
     "aws4-axios": "^3.3.15",
-    "axios": "1.18.0",
+    "axios": "1.20.0",
     "axios-ntlm": "^1.4.2",
     "chai": "^4.3.7",
     "chokidar": "^3.5.3",
@@ -74,7 +74,7 @@
     "https-proxy-agent": "^7.0.2",
     "iconv-lite": "^0.6.3",
     "is-valid-path": "^0.1.1",
-    "js-yaml": "4.3.1",
+    "js-yaml": "4.3.2",
     "lodash": "4.18.1",
     "mime-types": "^2.1.35",
     "nanoid": "3.3.18",
@@ -91,7 +91,7 @@
     "dmg-license": "^1.0.11"
   },
   "devDependencies": {
-    "electron": "~37.6.1",
+    "electron": "~44.7.0",
     "electron-builder": "^24.13.3",
     "electron-devtools-installer": "^4.0.0"
   }
